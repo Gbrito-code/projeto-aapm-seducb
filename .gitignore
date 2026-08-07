@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+
+# Testes
+.pytest_cache/
+testes_software/banco_teste.db
